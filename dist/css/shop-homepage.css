@@ -1,0 +1,55 @@
+/*!
+ * Start Bootstrap - Shop Homepage (https://startbootstrap.com/template-overviews/shop-homepage)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-shop-homepage/blob/master/LICENSE)
+ */
+
+body {
+  padding-top: 54px;
+}
+
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
+.bg-dark {
+  background-color: #539092 !important;
+}
+.card-img-top {
+  width: 100%;
+  border: 1px solid gray !important;
+
+}
+/*lightbox*/
+h1.card-title{
+  font-size: 12px;
+  text-align: center;
+  font-weight: bold;
+}
+p.featherlight-inner{
+  font-size: 15px;
+  text-align: center;
+font-weight: bold;
+}
+h1.featherlight-inner {
+  color: #8BCFCC;
+  font-weight: bold;
+}
+p.featherlight-inner{
+  text-align: left;
+}
+/*footer*/
+.fa-heart{
+color: red;
+}
+
+
+
+@media (max-width: 991px){
+  p.featherlight-inner{
+    font-size: 13px;
+    text-align: justify;
+  }
+ 
+}
